@@ -1,6 +1,6 @@
 # NLP Suite - Offline Natural Language Processing Toolkit
 
-![Demo Screenshot](./assets/screenshot.jpg)
+![Demo Screenshot](./asset/screenshot.jpg)
 
 A multilingual NLP pipeline with offline capabilities for text processing tasks.
 
