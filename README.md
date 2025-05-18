@@ -1,5 +1,5 @@
 # NLP Suite - Offline Natural Language Processing Toolkit
-
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Demo Screenshot](asset/screenshot.jpg)
 
 A multilingual NLP pipeline with offline capabilities for text processing tasks.
